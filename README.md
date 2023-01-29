@@ -1,2 +1,4 @@
 # odin-recipes
 Odin Project HTML Recipe Project
+
+This was my first full  project in HTML or really coding at all. It was really fun and I found new ways to make my code cleaner in the process. I hope to find more projects to do and ways to improve my skill. I think that I did a good job on this project. I went through it will little help or research. Again it was a pretty simple project but it was a great way to practice all that I have been learning about HTML. I hope that anyone who is viewing this is having a great journey with learning to code as well. Also, if you have any critiques or ways that I can improve my code I am all ears. 
